@@ -1,3 +1,28 @@
 {
-    "people": {}
+  "people": [
+    {
+      "name": "asdasdas",
+      "lastName": "asdasda",
+      "age": "23",
+      "id": 1
+    },
+    {
+      "name": "asdasdas",
+      "lastName": "asdasda",
+      "age": "23",
+      "id": 2
+    },
+    {
+      "name": "asdasdas",
+      "lastName": "asdasda",
+      "age": "23",
+      "id": 3
+    },
+    {
+      "name": "asdasdas",
+      "lastName": "asdasda",
+      "age": "23",
+      "id": 4
+    }
+  ]
 }
